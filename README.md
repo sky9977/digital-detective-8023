@@ -30,3 +30,9 @@ This repository contains my Diwali Independent Learning Assignment: **The Digita
 - USN: 8023
 
 Each mission is completed, documented and committed separately.
+
+## My Learning
+
+- I learned how to organize an assignment in a repository and keep each mission separate with its own README.
+- I learned that IPOS describes how computers process information and that terminals, Git and Python help me inspect, document and automate work.
+- I learned how files, processes, permissions and networks explain the way a computer uses and shares information.
