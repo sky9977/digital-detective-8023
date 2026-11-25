@@ -47,4 +47,5 @@ Not applicable.
 
 - Tool versions: Python 3.9.6 and Git 2.56.1
 - Commit message: `Set up Digital Detective mission structure`
-- Status: Commit and push pending after the GitHub repository is created.
+- GitHub repository: https://github.com/sky9977/digital-detective-8023
+- Status: Committed and pushed successfully to `main`; the commit is visible on GitHub.
