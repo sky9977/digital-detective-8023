@@ -29,4 +29,17 @@ This repository contains my Diwali Independent Learning Assignment: **The Digita
 - Name: Shivam Kumar
 - USN: 8023
 
+## Number converter
+
+Run the converter from inside its mission folder:
+
+```bash
+cd mission-05-numbers-data
+python3 number_converter.py
+```
+
+## Learning summary
+
+This assignment explored how computers receive and process information, how Terminal and operating-system tools manage files and programs, how number systems and text encoding represent data, and how Git, GitHub and networks support software work and communication.
+
 Each mission is completed, documented and committed separately.
