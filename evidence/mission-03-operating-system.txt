@@ -1,0 +1,28 @@
+Mission 3 privacy-safe operating-system observations
+
+Operating system: macOS
+Version: 26.6.2
+Active account: [redacted]
+
+Storage snapshot:
+Capacity: 460 GiB
+Used: 15 GiB
+Available: 95 GiB
+
+Activity snapshot:
+626 total processes
+5 running
+621 sleeping
+CPU: 61.44% user, 11.30% system, 27.24% idle
+
+Process examples:
+launchd — PID 1, macOS process and service manager
+logd — PID 96, system logging process
+
+Assignment location:
+Absolute project location was /Users/[redacted]/digital-detective-8023
+From that project folder, mission-02-terminal is a relative path.
+
+Permission example:
+terminal-practice/practice.txt: -rw-r--r--
+Owner permissions: read and write; execute: not allowed
