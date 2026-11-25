@@ -77,5 +77,7 @@ Not applicable.
 
 ## 9. Commit details
 
-- Commit messages: `Add My Learning to root README` and `Document Mission 6 GitHub workflow`
+- Pull Request: https://github.com/sky9977/digital-detective-8023/pull/1
+- Pull Request status: Open; not merged because no instructor merge instruction was provided.
+- Commit messages: `Add My Learning to root README`, `Document Mission 6 GitHub workflow`, and `Record Pull Request status`
 - Status: Committed and pushed successfully.
