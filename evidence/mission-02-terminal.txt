@@ -1,0 +1,15 @@
+Mission 2 privacy-safe Terminal observations
+
+Current directory: /Users/[redacted]/digital-detective-8023
+
+Practice file contents:
+First line
+Second line
+
+Detailed listing showed permissions, hidden entries, sizes and modification information.
+Human-readable detailed listing showed sizes in a more readable format.
+Piping a detailed listing to head -n 5 displayed only the first five output lines.
+
+Package manager:
+Homebrew version 7.0.7
+No package installation or removal was performed.
